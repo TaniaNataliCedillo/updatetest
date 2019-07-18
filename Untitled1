@@ -1,0 +1,19 @@
+actors  = [
+  {"name": "Molly Ringwald", "role": "Claire Standish", "grade": 10},
+  {"name": "Judd Nelson", "role": "John Bender", "grade": 12},
+  {"name": "Ally Sheedy", "role": "Allison Reynolds", "grade": 11},
+  {"name": "Anthony Michael Hall", "role": "Brian Johnson", "grade": 10}
+]
+
+print(actors[2]["name"])
+
+#What would I use to access the string "Brian Johnson"?
+
+
+#What would I write if I wanted to count how many actors there are in this movie?
+Collapse
+
+
+
+
+
